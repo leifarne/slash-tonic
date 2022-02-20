@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "functions/",
+			"problemMatcher": [],
+			"label": "npm: install - functions",
+			"detail": "install dependencies from package"
+		}
+	]
+}
